@@ -186,8 +186,7 @@ Lottie.propTypes = {
   ariaRole: PropTypes.string,
   ariaLabel: PropTypes.string,
   isClickToPauseDisabled: PropTypes.bool,
-  title: PropTypes.string,
-  style: PropTypes.string
+  title: PropTypes.string
 };
 
 Lottie.defaultProps = {
